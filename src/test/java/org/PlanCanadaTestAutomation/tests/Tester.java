@@ -34,7 +34,8 @@ public class Tester extends TestBase {
 			//WebDriverWait mywait = new WebDriverWait(driver, 5000);
 			// String billingName, String billingCard, int ccMonth, int ccYear, String ccCVV
 			//log start of test case
-			logger.info("---starting PlanCanada_TestTribute_TC03--- ");
+			//logger.info("---starting PlanCanada_TestTribute_TC03--- ");
+			logger.info("--- starting tester classs ---");
 			
 			//read property file for URL data
 			ReadPropertyFiles readPro = new ReadPropertyFiles();
@@ -79,7 +80,8 @@ public class Tester extends TestBase {
 			driver.close();
 			
 			//log end of testcase
-			logger.info("--- Finished PlanCanada_TestTribute_TC02_DDT ---");
+			//logger.info("--- Finished PlanCanada_TestTribute_TC02_DDT ---");
+			logger.info("--- Finished tester class ---");
 			
 		}
 		

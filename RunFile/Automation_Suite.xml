@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Cross Browsing Testing" parallel="none">
-<!-- 
+
 	<listeners>
 		<listener 
 			class-name = "org.PlanCanadaTestAutomation.utilities.TestJiraListener"/>
-	</listeners>  -->
+	</listeners> 
 
 	<!-- Chrome Browser Test -->
 	<test name="ChromeTest">
 		<parameter name="browser" value="chrome" />
 		<classes>
-		<class name="org.PlanCanadaTestAutomation.tests.PlanCanada_TestTribute_TC02_DDT"/>
+<!-- 		<class name="org.PlanCanadaTestAutomation.tests.PlanCanada_TestTribute_TC02_DDT"/> -->
 <!-- 			<class name="org.PlanCanadaTestAutomation.tests.SalesForce_TC01"/> -->
 	<!--	<class name="org.PlanCanadaTestAutomation.tests.PlanCanada_TestTribute_TC03_Message"/> -->
-<!-- 		<class name="org.PlanCanadaTestAutomation.tests.Tester"/> -->
+		<class name="org.PlanCanadaTestAutomation.tests.Tester"/>
 	
 		</classes>
 	</test>
