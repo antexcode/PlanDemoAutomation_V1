@@ -381,3 +381,4 @@ INFO  - 2021-01-19 11:57:52.482; org.PlanCanadaTestAutomation.tests.PlanCanada_T
 INFO  - 2021-01-19 11:58:10.585; org.PlanCanadaTestAutomation.tests.PlanCanada_TestTribute_TC02_DDT; --- Finished PlanCanada_TestTribute_TC02_DDT ---
 INFO  - 2021-01-19 11:59:19.608; org.PlanCanadaTestAutomation.tests.SalesForce_TC01; ---starting SalesForce_TC01--- 
 INFO  - 2021-01-19 11:59:58.514; org.PlanCanadaTestAutomation.tests.SalesForce_TC01; --- Finished SalesForce_TC01 ---
+INFO  - 2021-01-20 15:32:38.174; org.PlanCanadaTestAutomation.tests.Tester; --- starting tester classs ---
