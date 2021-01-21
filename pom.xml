@@ -98,7 +98,7 @@
   
 	</dependencies>
 	
-	<!--Build tag used for Azure pipeline configurations-->
+	<!--Build tag for Azure pipeline configurations-->
   <build> 
   <plugins>
             <plugin>
@@ -122,10 +122,8 @@
                     <suiteXmlFiles>
                         <suiteXmlFile>RunFile/Automation_Suite.xml</suiteXmlFile>
                     </suiteXmlFiles>
-
                </configuration>
             </plugin>
-
         </plugins>
   </build>
   
