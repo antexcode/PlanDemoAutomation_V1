@@ -98,7 +98,7 @@
   
 	</dependencies>
 	
-	<!--Build tag for Azure pipeline configurations-->
+	<!--Build tag for Azure pipeline configs-->
   <build> 
   <plugins>
             <plugin>
